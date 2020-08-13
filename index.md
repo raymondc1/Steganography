@@ -2,7 +2,7 @@
 
 # Steganography
 
-This was a project for my CDA 4205 Computer Architecture class, though the project itself was a group project, I was the one that did most of the coding. We were given a list of projects that we could chose from that had to do with assembly language, Steganography was what we chose. The basic idea of this project is to change whatever image we had so that there was a hidden message embedded into the image, people should not be able to tell if there was any changes with the image with just the naked eye since what we did was just changing the last values of the pixels.
+This was a project for my CDA 4205 Computer Architecture class, though the project itself was a group project, I was the one that did most of the coding. We were given a list of projects that we could chose from that had to do with assembly language, Steganography was what we chose. The basic idea of this project is to change whatever image we had so that there was a hidden message embedded into the image, people should not be able to tell if there was any changes with the image with just the naked eye since what we did was just changing the last values of the pixels. The project itself was really fun, I learned a lot about bit manipulation and assembly language, these might not be that useful nowadays since everything is so high level now, but it's still nice to understand how things work on a bit level. Down below is the code and also the image we used during this project.
 
 <br>
 
@@ -292,3 +292,10 @@ Decode:
 	j Exit
 
 ```
+
+<br>
+This was the image we used for this project
+
+![alien_cat](https://raw.githubusercontent.com/raymondc1/Steganography/master/project-code/input.bmp)
+
+
