@@ -299,4 +299,6 @@ This was the image we used for this project
 
 ![alien_cat](https://raw.githubusercontent.com/raymondc1/Steganography/master/project-code/input.bmp)
 
+<br>
+
 
